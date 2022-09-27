@@ -17,7 +17,7 @@
     "facepp": [{
             "name": "whitening",
             "default": 50,
-            "icon": "url"
+            "icon": "https://gcore.jsdelivr.net/gh/xcvswwdaa/photo1@master/res/icon_beauty_Microdermabrasion.png"
         },
         {
             "name": "smoothing",
@@ -43,7 +43,7 @@
         [{
             "name": "whitening",
             "default": 50,
-            "icon": "url",
+            "icon": "https://gcore.jsdelivr.net/gh/xcvswwdaa/photo1@master/res/cloth/icon_beauty_Microdermabrasion.png",
             "type": "man"
         }],
         [{
