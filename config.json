@@ -1,7 +1,7 @@
 {
-    "privacy_url": "/privacy.html",
-    "membership_url": "/membership.html",
-    "renewal": "/renewal.html",
+    "privacy_url": "https://gcore.jsdelivr.net/gh/xcvswwdaa/photo1@master/privacy.html",
+    "membership_url": "https://gcore.jsdelivr.net/gh/xcvswwdaa/photo1@master/membership.html",
+    "renewal": "https://gcore.jsdelivr.net/gh/xcvswwdaa/photo1@master/renewal.html",
     "index": [{
         "name": "一寸照片",
         "mmHeight": 20,
