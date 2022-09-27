@@ -1,0 +1,103 @@
+{
+    "privacy_url": "/privacy.html",
+    "membership_url": "/membership.html",
+    "renewal": "/renewal.html",
+    "index": [{
+        "name": "一寸照片",
+        "mmHeight": 20,
+        "mmWidth": 30,
+        "pxHeight": 45,
+        "pxWidth": 37,
+        "printBgColor": "3557FF",
+        "bgColor": "3557FF",
+        "type":"size",
+        "size": 100,
+        "hot": 0
+    }],
+    "facepp": [{
+            "name": "whitening",
+            "default": 50,
+            "icon": "url"
+        },
+        {
+            "name": "smoothing",
+            "default": 50,
+            "icon": "url"
+        },
+        {
+            "name": "thinface",
+            "default": 50,
+            "icon": "url"
+        },
+        {
+            "name": "shrink_face",
+            "default": 50,
+            "icon": "url"
+        },
+        {
+            "name": "enlarge_eye",
+            "default": 50
+        }
+    ],
+    "clothing": [
+        [{
+            "name": "whitening",
+            "default": 50,
+            "icon": "url",
+            "type": "man"
+        }],
+        [{
+            "name": "whitening",
+            "default": 50,
+            "icon": "url",
+            "type": "woman"
+        }],
+        [{
+            "name": "whitening",
+            "default": 50,
+            "icon": "url",
+            "type": "chirdren"
+        }]
+    ],
+    "paperwork": [
+        [{
+            "name": "一寸照片",
+            "size": "2x2",
+            "type": "size"
+        }],
+        [{
+            "name": "初中毕业照",
+            "size": "2x2",
+            "type": "stu"
+        }],
+        [{
+            "name": "高考",
+            "size": "2x2",
+            "type": "exam"
+        }],
+        [{
+            "name": "其他",
+            "size": "2x2",
+            "type": "more"
+        }]
+    ],
+    "background": [
+        "3557FF",
+        "3557FF",
+        "3557FF"
+    ],
+    "vip": [{
+            "name": "vip套餐一",
+            "price": 9
+        },
+        {
+            "name": "vip套餐二",
+            "price": 49
+        }
+    ],
+    "comment": {
+        "iscomment": 1,
+        "probability": 100,
+        "great_comment_tips": "五星好评就有机会获得一个月会员体验，感谢您的支持"
+    }
+}
